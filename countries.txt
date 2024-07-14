@@ -1,0 +1,197 @@
+andorra
+united arab emirates
+afghanistan
+antigua and barbuda
+albania
+armenia
+angola
+argentina
+austria
+australia
+azerbaijan
+bosnia and herzegovina
+barbados
+bangladesh
+belgium
+burkina faso
+bulgaria
+bahrain
+burundi
+benin
+bermuda
+brunei
+bolivia
+brazil
+bahamas
+bhutan
+botswana
+belarus
+belize
+canada
+democratic republic of the congo
+central african republic
+congo
+switzerland
+cote d'ivoire
+cook islands
+chile
+cameroon
+china
+colombia
+costa rica
+cuba
+cape verde
+cyprus
+czechia
+germany
+djibouti
+denmark
+dominica
+dominican republic
+algeria
+ecuador
+estonia
+egypt
+eritrea
+spain
+ethiopia
+finland
+fiji
+micronesia
+france
+gabon
+united kingdom
+grenada
+georgia
+ghana
+greenland
+the gambia
+guinea
+equatorial guinea
+greece
+guatemala
+guinea bissau
+guyana
+honduras
+croatia
+haiti
+hungary
+indonesia
+ireland
+israel
+india
+iraq
+iran
+iceland
+italy
+jamaica
+jordan
+japan
+kenya
+kyrgyzstan
+cambodia
+kiribati
+comoros
+saint kitts and nevis
+north korea
+south korea
+kuwait
+kazakhstan
+laos
+lebanon
+saint lucia
+liechtenstein
+sri lanka
+liberia
+lesotho
+lithuania
+luxembourg
+latvia
+libya
+morocco
+monaco
+moldova
+montenegro
+madagascar
+marshall islands
+north macedonia
+mali
+myanmar
+mongolia
+mauritania
+malta
+mauritius
+maldives
+malawi
+mexico
+malaysia
+mozambique
+namibia
+niger
+nigeria
+nicaragua
+netherlands
+norway
+nepal
+nauru
+new zealand
+oman
+panama
+peru
+papua new guinea
+philippines
+pakistan
+poland
+portugal
+palau
+paraguay
+qatar
+romania
+russia
+rwanda
+saudi arabia
+solomon islands
+seychelles
+sudan
+sweden
+singapore
+slovenia
+slovakia
+sierra leone
+san marino
+senegal
+somalia
+suriname
+sao tome and principe
+el salvador
+syria
+eswatini
+chad
+togo
+thailand
+tajikistan
+timor leste
+turkmenistan
+tunisia
+tonga
+turkey
+trinidad and tobago
+tuvalu
+taiwan
+tanzania
+ukraine
+uganda
+united states
+uruguay
+uzbekistan
+vatican city
+saint vincent and the grenadines
+venezuela
+vietnam
+vanuatu
+samoa
+kosovo
+yemen
+south africa
+zambia
+zimbabwe
